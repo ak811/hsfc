@@ -15,15 +15,15 @@
 #### 2. Import the project via any Python IDEs:
   * Install [Scikit-learn](https://github.com/scikit-learn/scikit-learn):
   ``` 
-  pip install keras
+  $ pip install scikit-learn
   ```
   * Install [OpenCV](https://github.com/opencv/opencv):
   ``` 
-  pip install opencv-python
+  $ pip install opencv-python
   ```
   * Install [NumPy](https://github.com/numpy/numpy):
   ```
-  pip install numpy
+  $ pip install numpy
   ```  
 #### 3. You're ready to go!
   ```
